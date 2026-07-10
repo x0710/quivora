@@ -1,0 +1,9 @@
+[package]
+name = "quivora"
+version = "0.0.0"
+edition = "2024"
+description = "A peer-to-peer tunnel powered by QUIC."
+license = "MIT"
+repository = "https://github.com/x0710/quivora"
+keywords = ["quic", "p2p", "tunnel", "nat-traversal", "network"]
+categories = ["network-programming"]
